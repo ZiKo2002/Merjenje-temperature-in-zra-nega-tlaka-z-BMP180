@@ -5,3 +5,10 @@ Z BMP180 lahko merimo zračni tlak in temperaturo. Z pomočjo obeh pa lahko pote
 Za povezavo arduina in senzorja sem uporabil I2C komunikacijo.
 Formule za izračune z registri lahko vidimo v datasheetu senzorja, ki sem ga naložil zraven. Arduino koda je komentirana.
 Za izpis podatkov sem izbral LCD keypad shield. Ta ima že vgrajene tipke in potenciometer za uravnavanje kontrasta LCD zaslona.
+
+KOSOVNICA
+Za projekt potrebujemo:
+  Arduino Uno ali Arduino Mega
+  4 žice
+  BMP180 senzor
+  LCD Keypad Shield
